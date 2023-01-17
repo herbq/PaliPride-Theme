@@ -2695,11 +2695,11 @@ li .header__menu-item span::after {
   background-color: #81b29a;
   transform-origin: bottom right;
   transition: 0.25s all;
-  transform: translateY(5px);
+  transform: translateY(3px);
 }
 
 li .header__menu-item:hover span::after {
-  transform: scaleX(1) translateY(5px);
+  transform: scaleX(1) translateY(3px);
   transform-origin: bottom left;
 }
 
