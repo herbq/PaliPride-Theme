@@ -1053,8 +1053,11 @@ summary::-webkit-details-marker {
   }
 }
 
-.grid--gapless.grid {
+.image-with-text {
   border-bottom: 1px solid gray;
+}
+
+.grid--gapless.grid {
   column-gap: 0;
   row-gap: 0;
 }
