@@ -8,6 +8,12 @@
   padding: 20px 10px;
 }
 
+.rich-text__wrapper .fa-hands-holding-child {
+  font-size: 47px;
+  position: relative;
+  top: 10px;
+}
+
 .rich-text__wrapper {
   display: flex;
   justify-content: center;
