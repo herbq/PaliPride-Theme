@@ -13,8 +13,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Show your Palestinian pride and make a difference with our store<\/p>",
-            "text_style": "subtitle"
+            "text": "<p>Wear your pride, feed a child Show your Palestinian pride and make a difference with our products. For every purchase made, we will provide a meal for a child in need in Palestine.<\/p>",
+            "text_style": "body"
           }
         },
         "button": {
@@ -42,6 +42,50 @@
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "783cb6c4-921f-4665-944c-9ad406bcbbef": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Palestinian Pride",
+            "heading_size": "h1"
+          }
+        },
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wear your pride, feed a childsadasdasdsadasasdadasddasasdasdasdasdasdasdasdasdasdasdASDASDASDASDASDADSADSADASASD<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-0",
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-1",
+        "template--17663094325546__783cb6c4-921f-4665-944c-9ad406bcbbef-167398853126a17b87-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -202,6 +246,7 @@
   },
   "order": [
     "image-with-text",
+    "783cb6c4-921f-4665-944c-9ad406bcbbef",
     "featured_collection",
     "dd62ebdc-9654-4d29-94a8-7249d6d316b6",
     "collapsible-content",
