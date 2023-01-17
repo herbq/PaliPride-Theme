@@ -135,30 +135,23 @@
           "settings": {
             "collection": "covers"
           }
-        },
-        "1bcf7ff4-3e04-41f0-8943-df7f49d08df4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bags"
-          }
         }
       },
       "block_order": [
         "template--17567939592490__dd62ebdc-9654-4d29-94a8-7249d6d316b6-1673392653cd5f66cd-0",
         "template--17567939592490__dd62ebdc-9654-4d29-94a8-7249d6d316b6-1673392653cd5f66cd-1",
-        "template--17567939592490__dd62ebdc-9654-4d29-94a8-7249d6d316b6-1673392653cd5f66cd-2",
-        "1bcf7ff4-3e04-41f0-8943-df7f49d08df4"
+        "template--17567939592490__dd62ebdc-9654-4d29-94a8-7249d6d316b6-1673392653cd5f66cd-2"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "image_ratio": "portrait",
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 32,
         "padding_bottom": 36
       }
     },
