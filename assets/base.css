@@ -2695,6 +2695,7 @@ li .header__menu-item span::after {
   background-color: #81b29a;
   transform-origin: bottom right;
   transition: 0.25s all;
+  transform: translateY(5px);
 }
 
 li .header__menu-item:hover span::after {
