@@ -2677,6 +2677,7 @@ details[open]>.header__menu-item .icon-caret {
 }
 
 .header__active-menu-item {
+  scale: 1.1;
   transition: text-decoration-thickness var(--duration-short) ease;
   color: rgb(var(--color-foreground));
   text-underline-offset: 0.3rem;
