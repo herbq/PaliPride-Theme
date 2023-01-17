@@ -37,9 +37,9 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
+            <i class="fa fa-camera"></i> <!-- this icon's 1) style prefix == fa and 2) icon name == camera -->
             <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
               {{ block.settings.heading | replace: 'p>', 'span>' }}
-            <i class="fa fa-camera"></i> <!-- this icon's 1) style prefix == fa and 2) icon name == camera -->
             </h2>
             {%- when 'caption' -%}
             <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
