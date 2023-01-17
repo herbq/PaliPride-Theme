@@ -1057,6 +1057,11 @@ summary::-webkit-details-marker {
   border-bottom: 1px solid #2b2b2b;
 }
 
+.image-with-text:last-child .grid {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
 .grid--gapless.grid {
   column-gap: 0;
   row-gap: 0;
