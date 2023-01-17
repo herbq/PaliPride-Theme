@@ -1057,7 +1057,7 @@ summary::-webkit-details-marker {
   border-bottom: 1px solid #2b2b2b;
 }
 
-.image-with-text:last-child .grid {
+.shopify-section:nth-child(odd) .image-with-text .grid {
   display: flex;
   flex-direction: row-reverse;
 }
