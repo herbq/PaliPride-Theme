@@ -2679,7 +2679,6 @@ details[open]>.header__menu-item .icon-caret {
 .header__menu-item span {
   display: inline-block;
   position: relative;
-  color: #0087ca;
 }
 
 .header__menu-item span::after {
@@ -2692,7 +2691,7 @@ details[open]>.header__menu-item .icon-caret {
   left: 0;
   background-color: #0087ca;
   transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
+  transition: 0.25s all;
 }
 
 .header__menu-item span:hover::after {
