@@ -115,7 +115,7 @@ h2,
   color: rgba(var(--color-base-outline-button-labels), 0.75);
 }
 
-.button {
+/* .button {
   font-family: inherit;
   cursor: pointer;
   display: inline-flex;
@@ -132,7 +132,7 @@ h2,
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
   line-height: calc(1 + 0.2 / var(--font-body-scale));
-}
+} */
 
 .button::selection {
   background-color: rgba(var(--color-base-solid-button-labels), 0.3);
