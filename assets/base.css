@@ -2679,6 +2679,7 @@ li .header__active-menu-item {
 li .header__menu-item span {
   display: inline-block;
   position: relative;
+  transition: .2s all;
 }
 
 li .header__menu-item span::after {
