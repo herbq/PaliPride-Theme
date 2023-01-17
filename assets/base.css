@@ -286,6 +286,8 @@ html.no-js .no-js-hidden {
 }
 
 .isolate {
+  display: flex;
+  justify-content: center;
   position: relative;
   z-index: 0;
 }
@@ -2690,7 +2692,7 @@ li .header__menu-item span::after {
   width: 100%;
   transform: scaleX(0);
   height: 3px;
-  bottom: -3px;
+  bottom: -5px;
   border-radius: 2px;
   left: 0;
   background-color: #81b29a;
