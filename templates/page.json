@@ -86,8 +86,8 @@
         "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>1 Order = 1 Meal<\/p>",
+            "heading_size": "h2"
           }
         },
         "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-1": {
@@ -106,7 +106,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 44,
         "padding_bottom": 52
       }
     },
