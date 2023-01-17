@@ -7,14 +7,14 @@
           "type": "heading",
           "settings": {
             "heading": "Wear your pride, feed a child",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text": "<p>Show your Palestinian pride and make a difference with our store<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
