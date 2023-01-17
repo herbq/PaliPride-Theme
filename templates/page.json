@@ -96,19 +96,11 @@
             "text": "<p>As a community we can make difference in the lives of those around us. Every action we take can have a ripple effect of kindness and positivity. Let's be the change we wish to see in the world and build a brighter future for everyone. Palestine children need our help now more than ever, let's make an impact together.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0",
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1",
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-2"
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/RTX4BKHT.jpg",
