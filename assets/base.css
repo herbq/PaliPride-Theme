@@ -2698,7 +2698,7 @@ li .header__menu-item span::after {
 }
 
 li .header__menu-item:hover span::after {
-  transform: scaleX(1) translateY(5px);
+  transform: scaleX(1);
   transform-origin: bottom left;
 }
 
