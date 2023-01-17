@@ -9,7 +9,7 @@
     "colors_outline_button_labels": "#e71200",
     "colors_background_1": "#1f1f21",
     "gradient_background_1": "",
-    "colors_background_2": "#1f1f21",
+    "colors_background_2": "#181818",
     "gradient_background_2": "",
     "type_header_font": "oswald_n5",
     "heading_scale": 140,
@@ -130,7 +130,7 @@
             "settings": {
               "text": "New Hoodies landed in our store 20% off for first 100 order",
               "text_alignment": "center",
-              "color_scheme": "accent-1",
+              "color_scheme": "background-2",
               "link": ""
             }
           }
