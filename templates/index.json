@@ -113,7 +113,7 @@
         "color_scheme": "background-1",
         "show_view_all": true,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -121,21 +121,21 @@
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
+        "row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Support Palestinians",
+            "icon": "heart",
+            "row_content": "",
+            "page": ""
+          }
+        },
         "row-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Reliable quality",
             "icon": "plant",
             "row_content": "<p>The better the quality, the longer the product lasts. Before we add new products, we do durability tests to make sure they’ll stand the test of time. We work with suppliers that produce high-quality products that last many washes, keeping print colors vibrant and the fabric soft.<\/p><p>To make our product sourcing more transparent, we've added a Source tab to every product in our catalog, which tells you about each item's manufacturer and country of origin.<\/p>",
-            "page": ""
-          }
-        },
-        "row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Premium Quality",
-            "icon": "lightning_bolt",
-            "row_content": "",
             "page": ""
           }
         },
@@ -148,21 +148,21 @@
             "page": ""
           }
         },
-        "row-4": {
+        "row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Support Palestinians",
-            "icon": "heart",
+            "heading": "Premium Quality",
+            "icon": "lightning_bolt",
             "row_content": "",
             "page": ""
           }
         }
       },
       "block_order": [
+        "row-4",
         "row-1",
-        "row-2",
         "row-3",
-        "row-4"
+        "row-2"
       ],
       "settings": {
         "caption": "ADD A CAPTION",
