@@ -2689,8 +2689,8 @@ li .header__menu-item span::after {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 3px;
-  bottom: -2px;
+  height: 5px;
+  bottom: -10px;
   left: 0;
   background-color: #81b29a;
   transform-origin: bottom right;
