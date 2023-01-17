@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "palestinain pride",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text": {
@@ -37,7 +37,7 @@
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
