@@ -2676,13 +2676,13 @@ details[open]>.header__menu-item .icon-caret {
   color: white;
 }
 
-.header__active-menu-item {
+.header__menu-item span {
   display: inline-block;
   position: relative;
   color: #0087ca;
 }
 
-.header__active-menu-item::after {
+.header__menu-item span::after {
   content: '';
   position: absolute;
   width: 100%;
@@ -2695,7 +2695,7 @@ details[open]>.header__menu-item .icon-caret {
   transition: transform 0.25s ease-out;
 }
 
-.header__active-menu-item:hover::after {
+.header__menu-item span:hover::after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
