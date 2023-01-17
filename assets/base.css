@@ -2319,6 +2319,7 @@ input[type='checkbox'] {
   padding: 0.75rem;
   text-decoration: none;
   word-break: break-word;
+  transition: .2s all;
 }
 
 .header__heading-link:hover .h2 {
