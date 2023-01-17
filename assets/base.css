@@ -2690,7 +2690,12 @@ li .header__menu-item span::after {
   width: 100%;
   transform: scaleX(0);
   height: 3px;
+<<<<<<< HEAD
   bottom: -5px;
+=======
+  bottom: -3px;
+  border-radius: 2px;
+>>>>>>> 02c67c21794a1cfe30e387ac4837305ccdc478bb
   left: 0;
   background-color: #81b29a;
   transform-origin: bottom right;
