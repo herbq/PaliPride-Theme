@@ -2689,7 +2689,7 @@ details[open]>.header__menu-item .icon-caret {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0087ca;
+  background-color: white;
   transform-origin: bottom right;
   transition: 0.25s all;
 }
