@@ -80,6 +80,50 @@
         "padding_bottom": 0
       }
     },
+    "5aa2148e-9d52-4482-ae71-1caeced4a945": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0",
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1",
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RTX4BKHT.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "2c55525d-3ed5-4fdd-8c55-fc13874b7d84": {
       "type": "rich-text",
       "blocks": {
@@ -107,7 +151,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 44,
-        "padding_bottom": 52
+        "padding_bottom": 60
       }
     },
     "newsletter": {
@@ -149,6 +193,7 @@
     "main",
     "f077a4c2-ddfc-4401-92e1-2b4abf484219",
     "06f1f8a3-b347-4a87-83bb-7653d0160aec",
+    "5aa2148e-9d52-4482-ae71-1caeced4a945",
     "2c55525d-3ed5-4fdd-8c55-fc13874b7d84",
     "newsletter"
   ]
