@@ -2681,6 +2681,30 @@ details[open]>.header__menu-item .icon-caret {
   color: white;
 }
 
+.header__active-menu-item {
+  display: inline-block;
+  position: relative;
+  color: #0087ca;
+}
+
+.header__active-menu-item::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #0087ca;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.header__active-menu-item:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
 .header__submenu {
   transition: opacity var(--duration-default) ease,
     transform var(--duration-default) ease;
