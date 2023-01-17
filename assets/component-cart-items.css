@@ -130,6 +130,10 @@ cart-remove-button .button {
   margin: 0 0.1rem 0.1rem 0;
 }
 
+.button--primary {
+  border-radius: 10px;
+}
+
 cart-remove-button .button:before,
 cart-remove-button .button:after  {
   content: none;
