@@ -162,67 +162,6 @@
         "padding_bottom": 36
       }
     },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "row-4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Support Palestinians",
-            "icon": "heart",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Reliable quality",
-            "icon": "plant",
-            "row_content": "<p>The better the quality, the longer the product lasts. Before we add new products, we do durability tests to make sure they’ll stand the test of time. We work with suppliers that produce high-quality products that last many washes, keeping print colors vibrant and the fabric soft.<\/p><p>To make our product sourcing more transparent, we've added a Source tab to every product in our catalog, which tells you about each item's manufacturer and country of origin.<\/p>",
-            "page": ""
-          }
-        },
-        "row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "DTG & Embroidery",
-            "icon": "shirt",
-            "row_content": "<p>We use direct-to-garment or DTG printing for most of our apparel products. It’s like using a regular printer, but on garments. Designs are printed directly onto the garment and absorbed into the fabric.<\/p><p>DTG printing yields quality prints, it's cost-effective for one-off orders, and there's almost no limit to the colors and fine detail you can use in your designs.<\/p><p>DTG inks are eco-friendly, CPSIA-compliant, non-toxic, non-hazardous, and soluble in water. <\/p><p><\/p><p>Embroidery is a technique where your design is embroidered on a product. It’s great for finer details, also logos and texts. We do embroidery on hats, apparel, bags, and home & living items <\/p><p><\/p><p>We professionally digitize all embroidery graphics by converting your design graphic into a stitch file that the embroidery machine can process.<\/p>",
-            "page": ""
-          }
-        },
-        "row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Premium Quality",
-            "icon": "lightning_bolt",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "row-4",
-        "row-1",
-        "row-3",
-        "row-2"
-      ],
-      "settings": {
-        "caption": "ADD A CAPTION",
-        "heading": "COLLAPSIBLE CONTENT",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "background-2",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": true,
-        "image_ratio": "large",
-        "desktop_layout": "image_first",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -249,7 +188,6 @@
     "783cb6c4-921f-4665-944c-9ad406bcbbef",
     "featured_collection",
     "dd62ebdc-9654-4d29-94a8-7249d6d316b6",
-    "collapsible-content",
     "newsletter"
   ]
 }
