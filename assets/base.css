@@ -316,7 +316,8 @@ body,
 .color-accent-1,
 .color-accent-2 {
   color: rgba(var(--color-foreground), 0.75);
-  background-color: rgb(var(--color-background));
+  /* background-color: rgb(var(--color-background)); */
+  background-color: red;
 }
 
 .background-secondary {
@@ -2632,8 +2633,7 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  /* color: rgba(var(--color-foreground), 0.75); */
-  color: red;
+  color: rgba(var(--color-foreground), 0.75);
 }
 
 .header__menu-item:hover {
