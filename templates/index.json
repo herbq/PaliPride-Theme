@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Wear your pride, feed a child",
-            "heading_size": "h1"
+            "heading": "palestinain pride",
+            "heading_size": "h0"
           }
         },
         "text": {
@@ -185,7 +185,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p><strong>Show your Palestinian pride and make a difference with our store<\/strong><\/p>"
           }
         }
       },
