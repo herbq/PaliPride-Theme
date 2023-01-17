@@ -42,90 +42,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "IMAGE WITH TEXT",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair an image with text to introduce a blog post that helps your customers learn more about your products.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "BUTTON LABEL",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "SUBSCRIBE TO OUR EMAILS",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
     }
   },
   "order": [
     "image-banner",
     "banner",
-    "product-grid",
-    "image-with-text",
-    "newsletter"
+    "product-grid"
   ]
 }
