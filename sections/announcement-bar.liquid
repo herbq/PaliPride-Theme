@@ -17,26 +17,6 @@
                 {% render 'icon-arrow' %}
               {%- endif -%}
             </p>
-            <div id="product-carousel">hello</div>
-            <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
-            <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
-            <script>
-              console.log(`wtf`)
-              document.querySelector('#product-carousel').style.backgroundColor = 'red'
-              {% comment %} const ProductCarousel = () => {
-                return <div>
-                  hi world
-                </div>
-              }
-              ReactDOM.render(<ProductCarousel />, document.getElementById("product-carousel")); {% endcomment %}
-            </script>
-            {% comment %} <script src="https://unpkg.com/react@17/umd/react.development.js"></script> {% endcomment %}
-            {% comment %} <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script> {% endcomment %}
-            {% comment %} <script>
-              console.log(`hello world`)
-              var products = {{ products | json }};
-              ReactDOM.render(<ProductCarousel products={products} />, document.getElementById("product-carousel"));
-            </script> {% endcomment %}
           </div>
           {%- if block.settings.link != blank -%}
           </a>
