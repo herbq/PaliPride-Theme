@@ -32,8 +32,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled-5-GXQBIOw2g-transformed.png",
-        "height": "adapt",
-        "desktop_image_width": "large",
+        "height": "large",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
