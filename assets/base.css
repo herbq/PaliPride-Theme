@@ -2671,17 +2671,17 @@ details[open]>.header__menu-item .icon-caret {
   transform: rotate(180deg);
 }
 
-.header__active-menu-item {
+li .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: white;
 }
 
-.header__menu-item span {
+li .header__menu-item span {
   display: inline-block;
   position: relative;
 }
 
-.header__menu-item span::after {
+li .header__menu-item span::after {
   content: '';
   position: absolute;
   width: 100%;
@@ -2694,7 +2694,7 @@ details[open]>.header__menu-item .icon-caret {
   transition: 0.25s all;
 }
 
-.header__menu-item span:hover::after {
+li .header__menu-item:hover span::after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
