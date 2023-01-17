@@ -1054,7 +1054,7 @@ summary::-webkit-details-marker {
 }
 
 .image-with-text {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #2b2b2b;
 }
 
 .grid--gapless.grid {
