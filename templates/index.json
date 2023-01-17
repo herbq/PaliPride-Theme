@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "IMAGE WITH TEXT",
-            "heading_size": "h0"
+            "heading": "Wear your pride, feed a child",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to share something inspiring about your brand that encourages shoppers to browse your products.<\/p>",
+            "text": "<p>Show your Palestinian pride and make a difference with our store<\/p>",
             "text_style": "body"
           }
         },
@@ -182,29 +182,15 @@
     "newsletter": {
       "type": "newsletter",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "SUBSCRIBE TO OUR EMAILS",
-            "heading_size": "h1"
-          }
-        },
         "paragraph": {
           "type": "paragraph",
           "settings": {
             "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
           }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
+        "paragraph"
       ],
       "settings": {
         "color_scheme": "accent-1",
