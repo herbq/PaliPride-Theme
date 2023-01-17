@@ -1054,6 +1054,7 @@ summary::-webkit-details-marker {
 }
 
 .grid--gapless.grid {
+  border-bottom: 1px solid black;
   column-gap: 0;
   row-gap: 0;
 }
