@@ -2689,7 +2689,7 @@ li .header__menu-item span::after {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 4px;
+  height: 3px;
   bottom: 0;
   left: 0;
   background-color: #81b29a;
@@ -2698,7 +2698,7 @@ li .header__menu-item span::after {
 }
 
 li .header__menu-item:hover span::after {
-  transform: scaleX(1);
+  transform: scaleX(0.5);
   transform-origin: bottom left;
 }
 
