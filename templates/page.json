@@ -76,8 +76,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 16,
-        "padding_bottom": 0
+        "padding_top": 52,
+        "padding_bottom": 80
       }
     },
     "5aa2148e-9d52-4482-ae71-1caeced4a945": {
@@ -112,8 +112,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 84
       }
     },
     "2c55525d-3ed5-4fdd-8c55-fc13874b7d84": {
@@ -142,7 +142,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 44,
+        "padding_top": 64,
         "padding_bottom": 60
       }
     },
