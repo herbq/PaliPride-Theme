@@ -3016,7 +3016,6 @@ details-disclosure>details {
   bottom: 1px;
 }
 
-.button:hover .button:after {
-  color: white;
+.button:hover:after {
   left: 5px;
 }
