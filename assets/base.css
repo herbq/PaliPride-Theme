@@ -3046,3 +3046,16 @@ h3.card__heading {
   border-radius: 10px;
   overflow: hidden;
 }
+
+.gradient {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.collection-list-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
