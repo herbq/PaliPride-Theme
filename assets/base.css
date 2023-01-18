@@ -3059,3 +3059,8 @@ h3.card__heading {
   align-items: flex-start;
   flex-direction: column;
 }
+
+.collection .collection__title {
+  display: flex;
+  justify-content: space-between;
+}
