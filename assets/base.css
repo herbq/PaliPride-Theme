@@ -3068,4 +3068,10 @@ h3.card__heading {
 .footer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 15px 35px;
+}
+
+.footer .footer__content-top {
+  margin-top: 10px;
 }
