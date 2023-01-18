@@ -3118,7 +3118,7 @@ h3.card__heading {
     height: 85%;
   }
   
-  .banner__media.media {
+  .banner__media {
     position: absolute;
   }
 }
