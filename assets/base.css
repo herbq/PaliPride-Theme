@@ -3012,6 +3012,7 @@ details-disclosure>details {
   position: relative;
   left: 3px;
   transition: .2s all;
+  font-weight: 500;
 }
 
 .button:hover .button:after {
