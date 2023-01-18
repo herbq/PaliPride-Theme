@@ -3077,6 +3077,10 @@ h3.card__heading {
   font-size: 12px;
 }
 
+.footer > *:not(.footer__content-top) {
+  margin-bottom: 2px;
+}
+
 .footer .footer__content-top {
   margin-top: 10px;
 }
