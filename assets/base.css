@@ -3070,6 +3070,11 @@ h3.card__heading {
   justify-content: space-between;
   align-items: center;
   padding: 15px 35px;
+  font-size: 12px;
+}
+
+.footer * {
+  font-size: 12px;
 }
 
 /* .footer .footer__content-top {
