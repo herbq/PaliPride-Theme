@@ -3064,3 +3064,8 @@ h3.card__heading {
   display: flex;
   justify-content: space-between;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
