@@ -2996,7 +2996,7 @@ details-disclosure>details {
 }
 
 .button:hover {
-  scale: 1.1;
+  scale: 1.04;
   filter: grayscale(.2);
 }
 
