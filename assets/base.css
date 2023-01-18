@@ -3111,14 +3111,14 @@ h3.card__heading {
   .rich-text .rich-text__heading span {
     font-size: 30px;
   }
-}
 
-.banner__box {
-  background-color: red;
-  width: 90%;
-  height: 85%;
-}
-
-.banner__media.media {
-  position: absolute;
+  .banner__box {
+    background-color: red;
+    width: 90%;
+    height: 85%;
+  }
+  
+  .banner__media.media {
+    position: absolute;
+  }
 }
