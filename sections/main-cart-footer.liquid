@@ -31,9 +31,7 @@
               <div class="totals">
                 <h2 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h2>
                 <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
-                {%- for item in cart.items -%}
-                  <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
-                {%- endfor -%}
+                <p class="totals__subtotal-value">{{ cart.item_count | money_with_currency }}</p>
               </div>
 
               <div>
@@ -116,6 +114,9 @@
     if (! isIE()) 
       return;
     
+
+
+
     const cartSubmitInput = document.createElement('input');
     cartSubmitInput.setAttribute('name', 'checkout');
     cartSubmitInput.setAttribute('type', 'hidden');
