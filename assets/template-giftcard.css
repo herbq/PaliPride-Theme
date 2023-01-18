@@ -71,6 +71,7 @@ h1,
 }
 
 @media only screen and (min-width: 750px) {
+
   h1,
   .h1 {
     font-size: calc(var(--font-heading-scale) * 4rem);
@@ -83,6 +84,7 @@ h2,
 }
 
 @media only screen and (min-width: 750px) {
+
   h2,
   .h2 {
     font-size: calc(var(--font-heading-scale) * 2.4rem);
@@ -133,6 +135,14 @@ h2,
   letter-spacing: 0.1rem;
   line-height: calc(1 + 0.2 / var(--font-body-scale));
   --border-offset: 0;
+}
+
+.button:hover {
+  scale: 1.06;
+}
+
+.button:active {
+  scale: 1;
 }
 
 .button::selection {
@@ -218,7 +228,7 @@ h2,
   opacity: 0.85;
 }
 
-.gift-card__price > p:first-child {
+.gift-card__price>p:first-child {
   margin-bottom: 1rem;
 }
 
@@ -328,7 +338,7 @@ h2,
   margin: 0 auto;
 }
 
-.gift-card__buttons > .button:first-child {
+.gift-card__buttons>.button:first-child {
   display: block;
   margin-bottom: 2rem;
 }
@@ -351,7 +361,8 @@ h2,
 }
 
 /* Fallback - for browsers that don't support :focus-visible, a fallback is set for :focus */
-.focused, .no-js *:focus {
+.focused,
+.no-js *:focus {
   outline: 0.2rem solid rgba(var(--color-foreground), 0.5);
   outline-offset: 0.3rem;
   box-shadow: 0 0 0 0.3rem rgb(var(--color-background)),
