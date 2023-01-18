@@ -139,6 +139,7 @@ h2,
 
 .button:hover {
   scale: 1.06;
+  background-color: red;
 }
 
 .button:active {
