@@ -3047,11 +3047,11 @@ h3.card__heading {
   overflow: hidden;
 }
 
-/* .gradient {
+.section-collection-list .gradient {
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+}
 
 .collection-list-wrapper {
   display: flex;
