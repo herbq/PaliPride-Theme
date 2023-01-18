@@ -3116,4 +3116,8 @@ h3.card__heading {
     width: 90%;
     height: 85%;
   }
+
+  .banner__media {
+    position: absolute;
+  }
 }
