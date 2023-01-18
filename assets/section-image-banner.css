@@ -175,6 +175,18 @@
   top: 0;
   width: 100%;
 }
+
+@media only screen and (max-width: 500px) {
+
+  .banner__box {
+    width: 90%;
+    height: 85%;
+  }
+
+  .banner__media.media {
+    position: absolute;
+  }
+}
 .banner__media img {
   filter: blur(1px);
 }
