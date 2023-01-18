@@ -2997,7 +2997,7 @@ details-disclosure>details {
 
 .button:hover {
   scale: 1.03;
-  filter: brightness(.93);
+  /* filter: brightness(.93); */
 }
 
 .button:active {
