@@ -3025,6 +3025,13 @@ h3.card__heading {
   margin-bottom: 15px;
 }
 
+.card__information {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .card-information {
   border-left: 2px solid #396039;
   padding-left: 10px;
