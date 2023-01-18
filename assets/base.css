@@ -1512,6 +1512,11 @@ details[open]>.share-button__fallback {
   animation: animateMenuOpen var(--duration-default) ease;
 }
 
+.share-button__button:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
 .share-button__button,
 .share-button__fallback button {
   cursor: pointer;
@@ -2984,4 +2989,8 @@ details-disclosure>details {
   .localization-form__select:focus {
     outline: transparent solid 1px;
   }
+}
+
+.button:hover {
+  background-color: red;
 }
