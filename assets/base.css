@@ -2997,10 +2997,10 @@ details-disclosure>details {
 
 .button:hover {
   scale: 1.04;
-  filter: grayscale(.2);
+  filter: brightness(.9);
 }
 
 .button:active {
   scale: 1;
-  filter: grayscale(.4);
+  filter: brightness(.8);
 }
