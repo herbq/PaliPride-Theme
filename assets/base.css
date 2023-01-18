@@ -3102,3 +3102,7 @@ h3.card__heading {
 .meal-equal span {
   font-size: 13px;
 }
+
+#main-cart-footer {
+  margin-bottom: 80px;
+}
