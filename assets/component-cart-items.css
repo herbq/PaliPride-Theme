@@ -131,7 +131,7 @@ cart-remove-button .button {
 }
 
 .button--primary {
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 cart-remove-button .button:before,
