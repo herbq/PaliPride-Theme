@@ -167,26 +167,10 @@
               "heading": "Be a part of our family",
               "menu": "footer"
             }
-          },
-          "image": {
-            "type": "image",
-            "settings": {
-              "image_width": 70,
-              "alignment": "right"
-            }
-          },
-          "text": {
-            "type": "text",
-            "settings": {
-              "heading": "",
-              "subtext": "<p>We want our case and our struggle to be shown on people clothings, this is a way to share our struggle to everyone.<\/p>"
-            }
           }
         },
         "block_order": [
-          "link-list",
-          "image",
-          "text"
+          "link-list"
         ],
         "settings": {
           "color_scheme": "background-2",
