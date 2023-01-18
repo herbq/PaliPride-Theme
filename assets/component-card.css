@@ -315,12 +315,6 @@
   color: rgb(var(--color-foreground));
 }
 
-.card-information
-  > *:not(.visually-hidden:first-child)
-  + *:not(.rating) {
-  margin-top: 0.7rem;
-}
-
 .card-information .caption {
   letter-spacing: 0.07rem;
 }
