@@ -3106,3 +3106,9 @@ h3.card__heading {
 #main-cart-footer {
   margin-bottom: 80px;
 }
+
+@media only screen and (max-width: 500px) {
+  .rich-text .rich-text__heading span {
+    font-size: 35px;
+  }
+}
