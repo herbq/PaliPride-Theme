@@ -1256,6 +1256,7 @@ summary::-webkit-details-marker {
   width: 100%;
 }
 
+
 .media>img {
   object-fit: cover;
   object-position: center center;
@@ -1316,7 +1317,6 @@ button.shopify-payment-button__button--unbranded,
   --shadow-blur-radius: var(--buttons-shadow-blur-radius);
   --shadow-opacity: var(--buttons-shadow-opacity);
   --shadow-visible: var(--buttons-shadow-visible);
-  --border-offset: var(--buttons-border-offset);
   /* reduce radius edge artifacts */
   --border-opacity: calc(1 - var(--buttons-border-opacity));
   border-radius: var(--buttons-radius-outset);
