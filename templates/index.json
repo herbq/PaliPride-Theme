@@ -155,6 +155,48 @@
         "padding_bottom": 36
       }
     },
+    "997f6fce-8ca5-432d-8c6e-6ca0a6d30372": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17663094325546__997f6fce-8ca5-432d-8c6e-6ca0a6d30372-1674039065e005f8e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>1 Order = 1 Meal<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17663094325546__997f6fce-8ca5-432d-8c6e-6ca0a6d30372-1674039065e005f8e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From our keenness to help Palestinian children to put the food on the table, we will provide the children of the camps a meal for every order you do!<\/p>"
+          }
+        },
+        "c47023b9-3d13-4485-bbb9-6089125be1e9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now!",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17663094325546__997f6fce-8ca5-432d-8c6e-6ca0a6d30372-1674039065e005f8e7-0",
+        "template--17663094325546__997f6fce-8ca5-432d-8c6e-6ca0a6d30372-1674039065e005f8e7-1",
+        "c47023b9-3d13-4485-bbb9-6089125be1e9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -181,6 +223,7 @@
     "783cb6c4-921f-4665-944c-9ad406bcbbef",
     "featured_collection",
     "dd62ebdc-9654-4d29-94a8-7249d6d316b6",
+    "997f6fce-8ca5-432d-8c6e-6ca0a6d30372",
     "newsletter"
   ]
 }
