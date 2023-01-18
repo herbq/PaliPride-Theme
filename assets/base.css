@@ -3014,6 +3014,6 @@ details-disclosure>details {
   transition: .2s all;
 }
 
-.button:after:hover {
+.button:hover .button:after {
   left: 5px;
 }
