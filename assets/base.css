@@ -3016,5 +3016,6 @@ details-disclosure>details {
 }
 
 .button:hover .button:after {
+  color: white;
   left: 5px;
 }
