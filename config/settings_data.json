@@ -145,8 +145,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "{{ shop.brand.logo }}",
-          "logo_width": 80,
+          "logo": "shopify:\/\/shop_images\/pal-logo.png",
+          "logo_width": 100,
           "logo_position": "middle-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
