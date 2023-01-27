@@ -14,7 +14,7 @@
         "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-0": {
           "type": "heading",
           "settings": {
-            "heading": "Our Story",
+            "heading": "Our Story{{ page.title }}",
             "heading_size": "h1"
           }
         },
