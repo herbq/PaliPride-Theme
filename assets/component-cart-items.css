@@ -131,7 +131,7 @@ cart-remove-button .button {
 }
 
 .button--primary {
-  border-radius: 4px;
+  border-radius: 4px;;
   font-weight: 700;
 }
 
