@@ -194,6 +194,8 @@
 
 .facets__reset {
   margin-left: auto;
+  text-decoration: none;
+  border: none;
 }
 
 .facets__disclosure {
