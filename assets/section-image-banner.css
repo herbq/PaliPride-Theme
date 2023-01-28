@@ -8,28 +8,6 @@
   text-align: center;
 }
 
-@media screen and (max-width: 430px) {
-  .banner__heading span * {
-    font-family: 'Noto Serif Ahom', serif;
-    font-size: 35px;
-  }
-
-  .banner__text span {
-    font-size: 11px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .banner__heading span * {
-    font-family: 'Noto Serif Ahom', serif;
-    font-size: 40px;
-  }
-
-  .banner__text span {
-    font-size: 13px;
-  }
-}
-
 @media only screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__box {
     text-align: right;
@@ -467,10 +445,6 @@
 
 .banner__heading {
   margin-top: 10px;
-<<<<<<< HEAD
-  ;
-=======
->>>>>>> 89c56bbe8ab18e7e45f7a5c0cb5edc2c0cf3fe79
   margin-bottom: 20px;
   font-family: 'Noto Serif Ahom', serif;
 }
@@ -486,6 +460,28 @@
 .banner__heading span * {
   font-family: 'Noto Serif Ahom', serif;
   font-size: 50px;
+}
+
+@media screen and (max-width: 430px) {
+  .banner__heading span * {
+    font-family: 'Noto Serif Ahom', serif;
+    font-size: 35px;
+  }
+
+  .banner__text span {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .banner__heading span * {
+    font-family: 'Noto Serif Ahom', serif;
+    font-size: 40px;
+  }
+
+  .banner__text span {
+    font-size: 13px;
+  }
 }
 
 .banner__heading span {
