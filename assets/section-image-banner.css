@@ -343,10 +343,22 @@
   }
 }
 
-@media screen and (max-width: 500px) {
-  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span {
+@media screen and (max-width: 440px) {
+
+  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
     font-size: 35px;
   }
+
+  .banner__box>*:first-child {
+    margin-top: 10px;
+  }
+
+  .banner__heading {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 500px) {
 
   .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
     font-size: 35px;
@@ -371,6 +383,10 @@
   .banner:not(.banner--mobile-bottom) .field__input {
     background-color: transparent;
   }
+}
+
+.banner__heading span {
+  font-size: 10px;
 }
 
 .banner__box {
