@@ -2,6 +2,7 @@
   color: inherit;
   position: relative;
   text-decoration: none;
+  overflow: hidden;
 }
 
 .card-wrapper:before {
