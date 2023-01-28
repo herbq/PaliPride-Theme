@@ -346,7 +346,7 @@
 @media screen and (max-width: 749px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__content {
     order: 2;
-    margin-top: 60px;
+    margin-top: 40px;
     width: 80%;
   }
 
