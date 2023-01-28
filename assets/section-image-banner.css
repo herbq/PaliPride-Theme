@@ -357,11 +357,11 @@
 }
 
 @media screen and (max-width: 500px) {
-  .banner--mobile-bottom:not(.banner--stacked) .banner__content > span {
+  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span {
     font-size: 40px;
   }
 
-  .banner--mobile-bottom:not(.banner--stacked) .banner__content > span * {
+  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
     font-size: 40px;
   }
 
