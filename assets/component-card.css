@@ -4,6 +4,18 @@
   text-decoration: none;
 }
 
+.card-wrapper:before {
+  content: '';
+  position: absolute;
+  border-radius: inherit;
+  height: 100%;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+  background: radial-gradient(800px circle at 100px 100px, rgba(255, 255, 255, 0.06), transparent 40%)
+}
+
 .card-content a.full-unstyled-link {
   font-size: 20px;
 }
@@ -115,14 +127,14 @@
 
 .card__content {
   display: grid;
-  grid-template-rows: minmax(0,1fr) max-content minmax(0,1fr);
+  grid-template-rows: minmax(0, 1fr) max-content minmax(0, 1fr);
   padding: 1rem;
   width: 100%;
   flex-grow: 1;
 }
 
 .card__content--auto-margins {
-  grid-template-rows: minmax(0,auto) max-content minmax(0,auto);
+  grid-template-rows: minmax(0, auto) max-content minmax(0, auto);
 }
 
 .card__information {
@@ -130,8 +142,8 @@
   padding: 1.3rem 1rem;
 }
 
-.card:not(.ratio) > .card__content {
-  grid-template-rows: max-content minmax(0,1fr) max-content auto;
+.card:not(.ratio)>.card__content {
+  grid-template-rows: max-content minmax(0, 1fr) max-content auto;
 }
 
 @media screen and (min-width: 750px) {
@@ -156,7 +168,7 @@
   justify-self: flex-end;
 }
 
-.card:not(.card--horizontal) > .card__content > .card__badge {
+.card:not(.card--horizontal)>.card__content>.card__badge {
   margin: 1.3rem;
 }
 
@@ -167,7 +179,7 @@
   width: 100%;
 }
 
-.card__inner:not(.ratio) > .card__content {
+.card__inner:not(.ratio)>.card__content {
   height: 100%;
 }
 
@@ -180,7 +192,7 @@
   margin-bottom: 0;
 }
 
-.card--card.card--media > .card__content {
+.card--card.card--media>.card__content {
   margin-top: calc(0rem - var(--image-padding));
 }
 
@@ -227,23 +239,22 @@
 }
 
 @media screen and (min-width: 990px) {
-  .card .media.media--hover-effect > img:only-child,
-  .card-wrapper .media.media--hover-effect > img:only-child {
+
+  .card .media.media--hover-effect>img:only-child,
+  .card-wrapper .media.media--hover-effect>img:only-child {
     transition: transform var(--duration-long) ease;
   }
 
-  .card:hover .media.media--hover-effect > img:first-child:only-child,
-  .card-wrapper:hover .media.media--hover-effect > img:first-child:only-child {
+  .card:hover .media.media--hover-effect>img:first-child:only-child,
+  .card-wrapper:hover .media.media--hover-effect>img:first-child:only-child {
     transform: scale(1.03);
   }
 
-  .card-wrapper:hover
-    .media.media--hover-effect
-    > img:first-child:not(:only-child) {
+  .card-wrapper:hover .media.media--hover-effect>img:first-child:not(:only-child) {
     opacity: 0;
   }
 
-  .card-wrapper:hover .media.media--hover-effect > img + img {
+  .card-wrapper:hover .media.media--hover-effect>img+img {
     opacity: 1;
     transition: transform var(--duration-long) ease;
     transform: scale(1.03);
@@ -256,25 +267,25 @@
 }
 
 .card--standard.card--media .card__inner .card__information,
-.card--standard.card--text:not(.card--horizontal) > .card__content .card__heading,
-.card--standard:not(.card--horizontal) > .card__content .card__badge,
-.card--standard.card--text.article-card > .card__content .card__information,
-.card--standard > .card__content .card__caption {
+.card--standard.card--text:not(.card--horizontal)>.card__content .card__heading,
+.card--standard:not(.card--horizontal)>.card__content .card__badge,
+.card--standard.card--text.article-card>.card__content .card__information,
+.card--standard>.card__content .card__caption {
   display: none;
 }
 
-.card--standard > .card__content {
+.card--standard>.card__content {
   padding: 0;
 }
 
-.card--standard > .card__content .card__information {
+.card--standard>.card__content .card__information {
   padding-left: 0;
   padding-right: 0;
 }
 
 .card--card.card--media .card__inner .card__information,
 .card--card.card--text .card__inner,
-.card--card.card--media > .card__content .card__badge {
+.card--card.card--media>.card__content .card__badge {
   display: none;
 }
 
@@ -309,12 +320,12 @@
   width: 100%;
 }
 
-.card-information > * {
+.card-information>* {
   line-height: calc(1 + 0.4 / var(--font-body-scale));
   color: rgb(var(--color-foreground));
 }
 
-.card-information > .price {
+.card-information>.price {
   color: rgb(var(--color-foreground));
 }
 
