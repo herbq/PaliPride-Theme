@@ -1,4 +1,4 @@
-const handleOnMosueMoving = () => {
+const handleOnMosueMoving = e => {
   const { currentTarget: target } = e;
 
   const rect = target.getBoundingClientRect(),
