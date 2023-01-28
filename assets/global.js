@@ -9,6 +9,7 @@ const handleOnMosueMoving = () => {
 }
 
 for (const card of document.querySelectorAll(`.card-wrapper`)) {
+  console.log(`hey`)
   card.onmousemove = e => handleOnMosueMoving(e)
 }
 
