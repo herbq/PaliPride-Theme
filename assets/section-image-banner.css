@@ -344,12 +344,9 @@
 }
 
 @media screen and (max-width: 500px) {
-  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span {
-    font-size: 20px;
-  }
 
   .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
-    font-size: 20px;
+    font-size: 35px;
   }
 
   .banner__box>*:first-child {
