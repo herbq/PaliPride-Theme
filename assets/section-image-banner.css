@@ -343,19 +343,6 @@
   }
 }
 
-@media screen and (max-width: 749px) {
-  .banner--mobile-bottom:not(.banner--stacked) .banner__content {
-    order: 2;
-    margin-top: 60px;
-    width: 80%;
-    font-size: 40px;
-  }
-
-  .banner:not(.banner--mobile-bottom) .field__input {
-    background-color: transparent;
-  }
-}
-
 @media screen and (max-width: 500px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__heading span {
     font-size: 40px;
@@ -371,6 +358,18 @@
 
   .banner__heading {
     margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .banner--mobile-bottom:not(.banner--stacked) .banner__content {
+    order: 2;
+    margin-top: 60px;
+    width: 80%;
+  }
+
+  .banner:not(.banner--mobile-bottom) .field__input {
+    background-color: transparent;
   }
 }
 
