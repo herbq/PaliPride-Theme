@@ -7,7 +7,6 @@
 
 .card-wrapper:hover:before {
   opacity: 1;
-  background-color: red;
 }
 
 .card-wrapper:before {
