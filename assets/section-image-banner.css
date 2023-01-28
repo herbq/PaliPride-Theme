@@ -490,6 +490,22 @@
   }
 }
 
+@media screen and (max-width: 380px) {
+  .banner__heading {
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-family: 'Noto Serif Ahom', serif;
+  }
+  .banner__heading span * {
+    font-family: 'Noto Serif Ahom', serif;
+    font-size: 26px;
+  }
+
+  .banner__text span {
+    font-size: 10px;
+  }
+}
+
 .banner__heading span {
   -webkit-animation: glow 3s ease-in-out both infinite;
   animation: glow 3s ease-in-out both infinite;
