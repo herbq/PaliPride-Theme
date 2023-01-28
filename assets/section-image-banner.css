@@ -349,6 +349,15 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+  .banner--mobile-bottom:not(.banner--stacked) .banner__content span {
+    font-size: 10px;
+  }
+  .banner--mobile-bottom:not(.banner--stacked) .banner__content span * {
+    font-size: 10px;
+  }
+}
+
 .banner__box {
   padding: 4rem 3.5rem;
   position: relative;
