@@ -5,7 +5,7 @@
   overflow: hidden;
 }
 
-.card:hover:before {
+.card-wrapper:hover:before {
   opacity: 1;
 }
 
