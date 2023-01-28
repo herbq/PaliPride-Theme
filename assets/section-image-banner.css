@@ -443,10 +443,36 @@
   }
 }
 
+@media screen and (max-width: 430px) {
+  .banner__heading span * {
+    font-family: 'Noto Serif Ahom', serif;
+    font-size: 35px;
+  }
+
+  .banner__text span {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .banner__heading span * {
+    font-family: 'Noto Serif Ahom', serif;
+    font-size: 40px;
+  }
+
+  .banner__text span {
+    font-size: 13px;
+  }
+}
+
 .banner__heading {
   margin-top: 10px;
   margin-bottom: 20px;
   font-family: 'Noto Serif Ahom', serif;
+}
+
+.banner__text span {
+  font-size: 15px;
 }
 
 .banner__heading span {
