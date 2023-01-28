@@ -13,7 +13,6 @@
 .responsive-border > .card-wrapper {
   width: calc(100% -2px);
   height: calc(100% -2px);
-  background-color: white;
 }
 
 :root,
