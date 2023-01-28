@@ -42,11 +42,32 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "6c5742f3-02ae-49f3-85f9-cfc11a7f6e74": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17807067775274__6c5742f3-02ae-49f3-85f9-cfc11a7f6e74-1674941571536d7f87-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p><strong>Wear your pride, feed a child<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17807067775274__6c5742f3-02ae-49f3-85f9-cfc11a7f6e74-1674941571536d7f87-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
     "image-banner",
     "banner",
-    "product-grid"
+    "product-grid",
+    "6c5742f3-02ae-49f3-85f9-cfc11a7f6e74"
   ]
 }
