@@ -343,36 +343,6 @@
   }
 }
 
-@media screen and (max-width: 440px) {
-
-  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
-    font-size: 35px;
-  }
-
-  .banner__box>*:first-child {
-    margin-top: 10px;
-  }
-
-  .banner__heading {
-    margin-bottom: 20px;
-  }
-}
-
-@media screen and (max-width: 500px) {
-
-  .banner--mobile-bottom:not(.banner--stacked) .banner__heading span * {
-    font-size: 35px;
-  }
-
-  .banner__box>*:first-child {
-    margin-top: 10px;
-  }
-
-  .banner__heading {
-    margin-bottom: 20px;
-  }
-}
-
 @media screen and (max-width: 749px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__content {
     order: 2;
@@ -383,10 +353,6 @@
   .banner:not(.banner--mobile-bottom) .field__input {
     background-color: transparent;
   }
-}
-
-.banner__heading span {
-  font-size: 10px;
 }
 
 .banner__box {
@@ -457,10 +423,6 @@
   margin-top: 1rem;
 }
 
-.banner__box>*:first-child {
-  margin-top: 0;
-}
-
 @media screen and (max-width: 749px) {
   .banner--stacked .banner__box {
     width: 100%;
@@ -482,12 +444,18 @@
 }
 
 .banner__heading {
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   font-family: 'Noto Serif Ahom', serif;
+}
+
+.banner__heading span {
+  font-size: 10px;
 }
 
 .banner__heading span * {
   font-family: 'Noto Serif Ahom', serif;
+  font-size: 50px;
 }
 
 .banner__heading span {
