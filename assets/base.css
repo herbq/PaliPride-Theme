@@ -5,6 +5,11 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.responsive-border {
+  width: 100%;
+  height: 100%;
+}
+
 .responsive-border > .card-wrapper {
   width: calc(100% -2px);
   height: calc(100% -2px);
