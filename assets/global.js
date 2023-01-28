@@ -1,4 +1,4 @@
-console.log(document.querySelectorAll(`.card-wrapper`))
+console.log(`prop`, document.querySelectorAll(`.card-wrapper`))
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(
