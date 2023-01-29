@@ -104,6 +104,7 @@ cart-items {
   position: relative;
   border-radius: var(--inputs-radius);
   padding: 1rem 2rem;
+  width: 0px;
 }
 
 .cart__note .text-area {
