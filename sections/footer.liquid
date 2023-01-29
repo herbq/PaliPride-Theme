@@ -91,6 +91,7 @@
                 {%- endcase -%}
             </div>
           {%- endfor -%}
+        <div class="right-side">
             {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
               <input type="hidden" name="contact[tags]" value="newsletter">
               <div class="newsletter-form__field-wrapper">
@@ -130,7 +131,7 @@
                 <h3 class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success' | t }}</h3>
               {%- endif -%}
             {%- endform -%}
-<div class="footer__payment">
+        <div class="footer__payment">
           <svg width="502" height="36" viewBox="0 0 502 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="0.581055" y="0.315918" width="63" height="35" rx="3" fill="#2A3476"></rect>
 <rect x="73.5811" y="0.315918" width="63" height="35" rx="3" fill="#010461"></rect>
@@ -214,6 +215,7 @@
 </svg>
 
           </div>
+        </div>
         </div>
       {%- endif -%}
 
