@@ -219,16 +219,10 @@
           "settings": {
             "text": "<p><strong>Wear your pride, feed a child<\/strong><\/p>"
           }
-        },
-        "7d88d4ed-f297-4768-9f3e-2f643312c790": {
-          "type": "email_form",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "paragraph",
-        "7d88d4ed-f297-4768-9f3e-2f643312c790"
+        "paragraph"
       ],
       "settings": {
         "color_scheme": "accent-1",
