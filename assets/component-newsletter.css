@@ -43,12 +43,15 @@
 }
 
 .newsletter-form__button {
-  width: 4.4rem;
+  width: 100px;
+  background-color: #3a5a40;
+  position: relative;
+  height: 37px;
+  right: 5px;
   margin: 0;
-  right: var(--inputs-border-width);
   top: 0;
-  height: 100%;
   z-index: 2;
+  
 }
 
 .newsletter-form__button:focus-visible {
