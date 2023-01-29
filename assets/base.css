@@ -3080,6 +3080,15 @@ h3.card__heading {
 
 .footer {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 35px;
+  font-size: 12px;
+}
+
+.very-footer {
+  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 15px 35px;

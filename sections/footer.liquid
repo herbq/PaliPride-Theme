@@ -37,7 +37,6 @@
 {%- endstyle -%}
 
 <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
-  <p>© 2023 Palestinian Pride, Inc.</p>
   {%- if section.blocks.size > 0 or section.settings.newsletter_enable or section.settings.show_social -%}
     <div class="footer__content-top page-width">
       {%- if section.blocks.size > 0 -%}
@@ -337,8 +336,11 @@
       </div>
     </div>
   </div> {% endcomment %}
-  <a>FAQ</a>
-  <a>Size Chart</a>
+  <div class="very-footer">
+    <a>FAQ</a>
+    <a>Size Chart</a>
+    <p>© 2023 Palestinian Pride, Inc.</p>
+  </div>
 </footer>
 
 {% javascript %}
