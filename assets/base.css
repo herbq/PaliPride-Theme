@@ -3081,8 +3081,6 @@ h3.card__heading {
 .footer {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   padding: 15px 35px;
   font-size: 12px;
 }
