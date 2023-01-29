@@ -3088,7 +3088,7 @@ h3.card__heading {
 .very-footer {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   font-size: 12px;
   border-top: #1a1a1a;
