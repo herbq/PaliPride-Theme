@@ -3102,12 +3102,17 @@ h3.card__heading {
   margin-bottom: 12px;
 }
 
+.footer__blocks-wrapper {
+  width: 100%;
+}
+
 .footer>a {
   margin-bottom: 8px;
   margin-left: 8px;
 }
 
 .footer .footer__content-top {
+  width: 100%;
   margin-top: 10px;
 }
 
