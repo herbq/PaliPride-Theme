@@ -117,6 +117,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/icon.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
@@ -161,15 +162,23 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "d41008a4-595c-4d2f-9751-60e4c5fbd8cc": {
+            "type": "link_list",
+            "settings": {
+              "heading": "COMPANY",
+              "menu": "footer"
+            }
+          },
           "link-list": {
             "type": "link_list",
             "settings": {
-              "heading": "",
+              "heading": "LINKS",
               "menu": "footer"
             }
           }
         },
         "block_order": [
+          "d41008a4-595c-4d2f-9751-60e4c5fbd8cc",
           "link-list"
         ],
         "settings": {
