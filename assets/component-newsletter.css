@@ -44,25 +44,24 @@
 
 .newsletter-form__button {
   border-radius: 4px;
-    font-weight: 600;
+  font-weight: 600;
   width: 100px;
   background-color: #3a5a40;
   position: relative;
   height: 37px;
-  right: 5px;
   margin: 0;
   top: 0;
   z-index: 2;
-  
+
 }
 
 .newsletter-form__button:focus-visible {
-  box-shadow: 0 0 0 .3rem rgb(var(--color-background)),0 0 0 .4rem rgba(var(--color-foreground));
+  box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 0 .4rem rgba(var(--color-foreground));
   background-color: rgb(var(--color-background));
 }
 
 .newsletter-form__button:focus {
-  box-shadow: 0 0 0 .3rem rgb(var(--color-background)),0 0 0 .4rem rgba(var(--color-foreground));
+  box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 0 .4rem rgba(var(--color-foreground));
   background-color: rgb(var(--color-background));
 }
 
