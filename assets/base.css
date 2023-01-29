@@ -10,7 +10,7 @@
   height: 100%;
 }
 
-.responsive-border > .card-wrapper {
+.responsive-border>.card-wrapper {
   width: calc(100% -2px);
   height: calc(100% -2px);
 }
@@ -3094,6 +3094,7 @@ h3.card__heading {
   align-items: center;
   padding: 15px 35px;
   font-size: 12px;
+  border-top: #2b2b2b;
 }
 
 .footer * {
@@ -3140,7 +3141,7 @@ h3.card__heading {
     width: 90%;
     height: 85%;
   }
-  
+
   .banner__media {
     position: absolute;
   }
