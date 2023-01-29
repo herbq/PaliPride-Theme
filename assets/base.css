@@ -3090,8 +3090,8 @@ h3.card__heading {
   justify-content: space-between;
   align-items: center;
   font-size: 12px;
-  border-top: #1a1a1a;
-  padding: 15px 35px;
+  padding: 3px 20px;
+  border-top: 1px solid #272727;
 }
 
 .footer * {
