@@ -165,14 +165,14 @@
           "d41008a4-595c-4d2f-9751-60e4c5fbd8cc": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "COMPANY",
               "menu": "footer"
             }
           },
           "link-list": {
             "type": "link_list",
             "settings": {
-              "heading": "",
+              "heading": "LINKS",
               "menu": "footer"
             }
           }
