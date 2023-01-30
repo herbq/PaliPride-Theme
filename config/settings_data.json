@@ -172,7 +172,7 @@
           "link-list": {
             "type": "link_list",
             "settings": {
-              "heading": "LINKS",
+              "heading": "CATEGORIES",
               "menu": "footer"
             }
           }
