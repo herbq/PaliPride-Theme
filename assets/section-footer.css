@@ -392,7 +392,6 @@ noscript .localization-selector.link {
 }
 
 .footer-block__details-content {
-  margin-bottom: 4rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
