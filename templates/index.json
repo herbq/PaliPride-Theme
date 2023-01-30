@@ -91,12 +91,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "New products",
+        "title": "Featured Products",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "featured-items",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
