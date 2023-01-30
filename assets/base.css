@@ -3107,6 +3107,7 @@ h3.card__heading {
   .banner__media {
     position: absolute;
   }
+
   .collection .button.button--secondary {
     min-width: 0px;
     width: 120px;
@@ -3122,4 +3123,8 @@ h3.card__heading {
   .card__content .price-item.price-item--regular {
     font-size: 14px;
   }
+}
+
+#ViewAll-template--17807067480362__dd62ebdc-9654-4d29-94a8-7249d6d316b6 {
+  visibility: hidden;
 }
