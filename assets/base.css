@@ -3093,12 +3093,6 @@ h3.card__heading {
   margin-bottom: 80px;
 }
 
-.collection .button.button--secondary {
-  min-width: 0px;
-  width: 120px;
-  font-size: 12px;
-}
-
 @media (max-width: 500px) {
   .rich-text .rich-text__heading span {
     font-size: 30px;
@@ -3112,6 +3106,11 @@ h3.card__heading {
 
   .banner__media {
     position: absolute;
+  }
+  .collection .button.button--secondary {
+    min-width: 0px;
+    width: 120px;
+    font-size: 11px;
   }
 }
 
