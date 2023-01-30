@@ -166,7 +166,7 @@
             "type": "link_list",
             "settings": {
               "heading": "COMPANY",
-              "menu": "footer"
+              "menu": "fm"
             }
           },
           "link-list": {
