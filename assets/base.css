@@ -3134,11 +3134,15 @@ h3.card__heading {
 }
 
 @keyframes bg {
-  from {
+  0% {
     scale: 1;
   }
 
-  to {
+  50% {
     scale: 1.1;
+  }
+
+  100% {
+    scale: 1;
   }
 }
