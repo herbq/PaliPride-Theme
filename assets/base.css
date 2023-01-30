@@ -1659,7 +1659,7 @@ details[open]>.share-button__fallback {
   flex-wrap: wrap;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (max-width: 750px) {
   .footer__payment {
     margin-top: 20px;
   }
