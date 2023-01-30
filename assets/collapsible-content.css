@@ -47,6 +47,8 @@
 }
 
 .collapsible-content__header {
+  display: flex;
+  font-size: 25px;
   word-break: break-word;
 }
 
