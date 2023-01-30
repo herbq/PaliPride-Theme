@@ -8,41 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17848003952938__fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd-16750977851ada4b12-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FAQ",
-            "heading_size": "h1"
-          }
-        },
-        "template--17848003952938__fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd-16750977851ada4b12-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Shop with purpose at Palestinian Pride. Our products not only keep you stylish but also provide a meal for a Palestinian child in need with every purchase. Make a difference today.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--17848003952938__fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd-16750977851ada4b12-0",
-        "template--17848003952938__fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd-16750977851ada4b12-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "856afa0e-b7a8-4464-847c-4b9b6b9ddedd": {
       "type": "collapsible-content",
       "blocks": {
@@ -286,25 +251,14 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
-    },
-    "28282e93-fe26-4409-bb6c-cced2a2265a0": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "fcf36cc3-cef0-4f4e-8634-f9c5223e7ffd",
     "856afa0e-b7a8-4464-847c-4b9b6b9ddedd",
     "fedd1049-90d8-4e5d-977d-91f990cca4ee",
     "9f4cc2df-3263-4b38-baf0-f926ccd600be",
     "c205338d-cdd8-45e6-b85b-02f30a915e7a",
-    "newsletter",
-    "28282e93-fe26-4409-bb6c-cced2a2265a0"
+    "newsletter"
   ]
 }
