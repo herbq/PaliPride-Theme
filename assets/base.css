@@ -3113,4 +3113,8 @@ h3.card__heading {
   .full-unstyled-link {
     font-size: 14px;
   }
+
+  .price-item.price-item--regular {
+    font-size: 14px;
+  }
 }
