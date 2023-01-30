@@ -1,0 +1,178 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "f077a4c2-ddfc-4401-92e1-2b4abf484219": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story{{ page.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-1": {
+          "type": "text",
+          "settings": {
+            "text": "We help young people around the world by spreading love and always hustling. From the Western hemisphere to the West Bank, Palestinian Hustle is impacting the world and making a difference in our communities.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-0",
+        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image-by-Etienne-Valois_0a49dd75-ccf5-405b-abd0-5cbcee8061a3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "06f1f8a3-b347-4a87-83bb-7653d0160aec": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h1"
+          }
+        },
+        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Palestine Pride, we believe in creating a future where everyone has equal rights and access to a high-quality life. We stand in solidarity with Palestine and people around the world facing extreme hardship. By purchasing one of our hoodies, you're not only showing your support for a meaningful cause, but you're also helping to provide a meal for a child in need.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-0",
+        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mamap_fff65fc2-8581-4ed5-b99c-19c591b4d958.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 80
+      }
+    },
+    "5aa2148e-9d52-4482-ae71-1caeced4a945": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make a Difference Together",
+            "heading_size": "h1"
+          }
+        },
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a community we can make difference in the lives of those around us. Every action we take can have a ripple effect of kindness and positivity. Let's be the change we wish to see in the world and build a brighter future for everyone. Palestine children need our help now more than ever, let's make an impact together.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0",
+        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RTX4BKHT.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 48,
+        "padding_bottom": 84
+      }
+    },
+    "2c55525d-3ed5-4fdd-8c55-fc13874b7d84": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>1 Order = 1 Meal<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From our keenness to help Palestinian children to put the food on the table, we will provide the children of the camps a meal for every order you do!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-0",
+        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 60
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p><strong>Wear your pride, feed a child<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "paragraph"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f077a4c2-ddfc-4401-92e1-2b4abf484219",
+    "06f1f8a3-b347-4a87-83bb-7653d0160aec",
+    "5aa2148e-9d52-4482-ae71-1caeced4a945",
+    "2c55525d-3ed5-4fdd-8c55-fc13874b7d84",
+    "newsletter"
+  ]
+}
