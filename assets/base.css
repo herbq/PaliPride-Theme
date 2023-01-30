@@ -1654,6 +1654,17 @@ details[open]>.share-button__fallback {
   box-shadow: 0 0 0 0.1rem rgb(var(--color-background)), 0 0 0.5rem 0.4rem rgba(var(--color-foreground), .3);
 }
 
+.footer__payment {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 750px) {
+  .footer__payment {
+    margin-top: 20px;
+  }
+}
+
 .share-button__fallback .field__input {
   box-shadow: none;
   text-overflow: ellipsis;
@@ -3013,12 +3024,6 @@ h3.card__heading {
 .card {
   border-radius: 10px;
   overflow: hidden;
-}
-
-.section-collection-list .gradient {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .collection-list-wrapper {
