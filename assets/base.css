@@ -3130,6 +3130,7 @@ h3.card__heading {
 }
 
 .love {
+  display: inline-block;
   animation: bg 1s infinite;
 }
 
