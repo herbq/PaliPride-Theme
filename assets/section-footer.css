@@ -394,7 +394,6 @@ noscript .localization-selector.link {
 .footer-block__details-content {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   flex-wrap: wrap;
   height: 120px;
 }
