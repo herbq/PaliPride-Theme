@@ -189,7 +189,7 @@
           "settings": {
             "heading": "How can I contact customer service?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You can reach out to us through email <strong>sales@palpride.com<\/strong>, We're here to help and answer any questions you might have!<\/p>",
             "page": ""
           }
         },
@@ -198,7 +198,7 @@
           "settings": {
             "heading": "What are your hours of operation?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Our customer service team is available Monday to Friday, from 9am to 5pm (UTC) and we may reply sometimes outside these hours. Don't hesitate to send an email, we'll do our best to respond as quickly as possible.<\/p>",
             "page": ""
           }
         },
@@ -207,7 +207,7 @@
           "settings": {
             "heading": "How can I leave feedback about my experience?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>We'd love to hear from you! Whether you have a great experience or something could be improved, your feedback is always valuable. Just drop us an email or leave a comment on our social media pages.<\/p>",
             "page": ""
           }
         }
