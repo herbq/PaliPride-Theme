@@ -3108,3 +3108,9 @@ h3.card__heading {
     position: absolute;
   }
 }
+
+@media screen and (max-width: 440px) {
+  .full-unstyled-link {
+    font-size: 14px;
+  }
+}
