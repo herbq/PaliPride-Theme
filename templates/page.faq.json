@@ -8,142 +8,228 @@
         "padding_bottom": 28
       }
     },
-    "f077a4c2-ddfc-4401-92e1-2b4abf484219": {
-      "type": "image-banner",
+    "856afa0e-b7a8-4464-847c-4b9b6b9ddedd": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-0": {
-          "type": "heading",
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-3": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Our Story{{ page.title }}",
-            "heading_size": "h1"
+            "heading": "How do I order on PalPride.com?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         },
-        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-1": {
-          "type": "text",
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-0": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "We help young people around the world by spreading love and always hustling. From the Western hemisphere to the West Bank, Palestinian Hustle is impacting the world and making a difference in our communities.",
-            "text_style": "body"
+            "heading": "What payment methods do you accept?",
+            "icon": "none",
+            "row_content": "<p>What payment methods do you accept?<\/p>",
+            "page": ""
+          }
+        },
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it safe to use my credit card on your website?",
+            "icon": "none",
+            "row_content": "<p>Is it safe to use my credit card on your website?<\/p>",
+            "page": ""
+          }
+        },
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use multiple payment methods for one order?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-0",
-        "template--17567939690794__f077a4c2-ddfc-4401-92e1-2b4abf484219-1673442183fcfd65ea-1"
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-3",
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-0",
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-1",
+        "template--17848003952938__856afa0e-b7a8-4464-847c-4b9b6b9ddedd-167509630881341e75-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image-by-Etienne-Valois_0a49dd75-ccf5-405b-abd0-5cbcee8061a3.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "caption": "",
+        "heading": "Payment",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "06f1f8a3-b347-4a87-83bb-7653d0160aec": {
-      "type": "image-with-text",
+    "fedd1049-90d8-4e5d-977d-91f990cca4ee": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-0": {
-          "type": "heading",
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Our Mission",
-            "heading_size": "h1"
+            "heading": "What is the delivery time for orders?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         },
-        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-1": {
-          "type": "text",
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>At Palestine Pride, we believe in creating a future where everyone has equal rights and access to a high-quality life. We stand in solidarity with Palestine and people around the world facing extreme hardship. By purchasing one of our hoodies, you're not only showing your support for a meaningful cause, but you're also helping to provide a meal for a child in need.<\/p>",
-            "text_style": "body"
+            "heading": "Do you offer international shipping?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does shipping cost?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-0",
-        "template--17567939690794__06f1f8a3-b347-4a87-83bb-7653d0160aec-1673447581b7f689a4-1"
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-0",
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-1",
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-2",
+        "template--17848003952938__fedd1049-90d8-4e5d-977d-91f990cca4ee-167509630881341e75-3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mamap_fff65fc2-8581-4ed5-b99c-19c591b4d958.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "caption": "",
+        "heading": "Shipping and Delivery:",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 52,
-        "padding_bottom": 80
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "5aa2148e-9d52-4482-ae71-1caeced4a945": {
-      "type": "image-with-text",
+    "9f4cc2df-3263-4b38-baf0-f926ccd600be": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0": {
-          "type": "heading",
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Make a Difference Together",
-            "heading_size": "h1"
+            "heading": "What is your return policy?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         },
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1": {
-          "type": "text",
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>As a community we can make difference in the lives of those around us. Every action we take can have a ripple effect of kindness and positivity. Let's be the change we wish to see in the world and build a brighter future for everyone. Palestine children need our help now more than ever, let's make an impact together.<\/p>",
-            "text_style": "body"
+            "heading": "How do I initiate a return or exchange?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to process a return or refund?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-0",
-        "template--17663094784298__5aa2148e-9d52-4482-ae71-1caeced4a945-16739656528eb7a90c-1"
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-0",
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-1",
+        "template--17848003952938__9f4cc2df-3263-4b38-baf0-f926ccd600be-167509630881341e75-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/RTX4BKHT.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "caption": "",
+        "heading": "Returns and Refunds",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 48,
-        "padding_bottom": 84
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "2c55525d-3ed5-4fdd-8c55-fc13874b7d84": {
-      "type": "rich-text",
+    "c205338d-cdd8-45e6-b85b-02f30a915e7a": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-0": {
-          "type": "heading",
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "<p>1 Order = 1 Meal<\/p>",
-            "heading_size": "h1"
+            "heading": "How can I contact customer service?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         },
-        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-1": {
-          "type": "text",
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>From our keenness to help Palestinian children to put the food on the table, we will provide the children of the camps a meal for every order you do!<\/p>"
+            "heading": "What are your hours of operation?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I leave feedback about my experience?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-0",
-        "template--17657595560234__2c55525d-3ed5-4fdd-8c55-fc13874b7d84-167396161590d6a2f7-1"
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-0",
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-1",
+        "template--17848003952938__c205338d-cdd8-45e6-b85b-02f30a915e7a-167509630881341e75-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "caption": "",
+        "heading": "Customer Service",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 60
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "newsletter": {
@@ -169,10 +255,10 @@
   },
   "order": [
     "main",
-    "f077a4c2-ddfc-4401-92e1-2b4abf484219",
-    "06f1f8a3-b347-4a87-83bb-7653d0160aec",
-    "5aa2148e-9d52-4482-ae71-1caeced4a945",
-    "2c55525d-3ed5-4fdd-8c55-fc13874b7d84",
+    "856afa0e-b7a8-4464-847c-4b9b6b9ddedd",
+    "fedd1049-90d8-4e5d-977d-91f990cca4ee",
+    "9f4cc2df-3263-4b38-baf0-f926ccd600be",
+    "c205338d-cdd8-45e6-b85b-02f30a915e7a",
     "newsletter"
   ]
 }
