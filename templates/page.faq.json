@@ -56,7 +56,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Payment",
+        "heading": "💳 Payment",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -117,7 +117,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Shipping and Delivery:",
+        "heading": "📦 Shipping and Delivery",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -168,7 +168,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Returns and Refunds",
+        "heading": "💰 Returns and Refunds",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -219,7 +219,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Customer Service",
+        "heading": "📞 Customer Service",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
