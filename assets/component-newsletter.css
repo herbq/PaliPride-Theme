@@ -20,6 +20,7 @@
 .newsletter-form__field-wrapper .field__input {
   padding-right: 5rem;
   background-color: #282828;
+  border-radius: 2px;
 }
 
 .newsletter-form__field-wrapper .field {
@@ -42,7 +43,7 @@
 }
 
 .newsletter-form__button {
-  border-radius: 3px;
+  border-radius: 2px;
   font-weight: 600;
   width: 100px;
   background-color: #3a5a40;
