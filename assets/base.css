@@ -3097,6 +3097,15 @@ h3.card__heading {
   width: 100%;
 }
 
+.collapsible-content__header {
+  display: flex;
+  word-break: break-word;
+}
+
+.collapsible-content__header h2 {
+  font-size: 25px;
+}
+
 @media (max-width: 500px) {
   .rich-text .rich-text__heading span {
     font-size: 30px;
