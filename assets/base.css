@@ -1656,7 +1656,7 @@ details[open]>.share-button__fallback {
 
 .footer__payment {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap;;
 }
 
 .share-button__fallback .field__input {
