@@ -1654,17 +1654,6 @@ details[open]>.share-button__fallback {
   box-shadow: 0 0 0 0.1rem rgb(var(--color-background)), 0 0 0.5rem 0.4rem rgba(var(--color-foreground), .3);
 }
 
-.footer__payment {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-@media screen and (max-width: 750px) {
-  .footer__payment {
-    margin-top: 20px;
-  }
-}
-
 .share-button__fallback .field__input {
   box-shadow: none;
   text-overflow: ellipsis;
@@ -3026,6 +3015,12 @@ h3.card__heading {
   overflow: hidden;
 }
 
+.section-collection-list .gradient {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .collection-list-wrapper {
   display: flex;
   justify-content: flex-start;
@@ -3106,15 +3101,5 @@ h3.card__heading {
 
   .banner__media {
     position: absolute;
-  }
-}
-
-@media screen and (max-width: 440px) {
-  .full-unstyled-link {
-    font-size: 14px;
-  }
-
-  .price-item.price-item--regular {
-    font-size: 14px;
   }
 }
