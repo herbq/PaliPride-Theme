@@ -129,7 +129,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "New Hoodies landed in our store 20% off for first 100 order",
+              "text": "New Products landed in our store 20% off for first 100 order",
               "text_alignment": "center",
               "color_scheme": "background-2",
               "link": ""
