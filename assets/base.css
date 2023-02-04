@@ -3147,6 +3147,10 @@ h3.card__heading {
   animation: bg 1s infinite;
 }
 
+.footer_icon {
+  margin-right: 5px;
+}
+
 @keyframes bg {
   0% {
     scale: 1;
